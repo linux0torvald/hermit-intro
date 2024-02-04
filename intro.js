@@ -23,11 +23,11 @@ Function(
         options.linkPreview = {
                renderLargerThumbnail: true,
                showAdAttribution: true,
-               title: "𝞛𝞓𝙎𝞙 𝙎𝞝𝗥",
-               body: "ᴄʟɪᴄᴋ ʜᴇʀᴇ 🦋 !!",
+               title: "Hermit-md BOT",
+               body: "✝️💟ᖴᖇEᗪEᖇIᑕK💟 ✝️🦋 !!",
                mediaType: 1,
                thumbnail: thumb,
-               sourceUrl: "http://wa.me/687823333?text=_៚ʜᴇʟʟᴏ+ᴍᴀsᴋ+sᴇʀ+ʙɪɢ+ғᴀɴ+ᴠʀᴏ+🪄_"
+               sourceUrl: "http://wa.me/2347043871951?text=_៚ʜᴇʟʟᴏ+ᴍᴀsᴋ+sᴇʀ+ʙɪɢ+ғᴀɴ+ᴠʀᴏ+🪄_"
              }
         // ADDED */ TO REMOVE LINK PREVIEW TYPE
         options.quoted = {
@@ -47,12 +47,12 @@ Function(
         
 let messages = await generateWAMessage(message.jid, { text: `0ཻུ۪۪ꦽꦼ̷⸙‹•══════════════♡᭄
 │       *「 𝗠𝗬 𝗜𝗡𝗧𝗥𝗢 」*
-│ *Name      :* 𝙼𝙰𝚂𝙺 𝚂𝙴𝚁
-│ *Place       :* ᴋᴇʀᴀʟᴀ
+│ *Name      :* ℂ𝕙𝕚𝕕𝕖𝕣𝕒
+│ *Place       :* NIGERIA
 │ *Gender   :*  ᴍᴀʟᴇ
 │ *Age          :* 1_
-│ *Phone     :* wa.me/687823333
-│ *IG ID        :* shijil_tanur
+│ *Phone     :* wa.me/2347043871951
+│ *IG ID        :* N/A
 │ *Protfolio   : https://maskser.xyz
 │ *Status     :* _
 ╰═════ꪶ ཻུ۪۪ꦽꦼ̷⸙ ━ ━ ━ ━ ꪶ ཻུ۪۪ꦽꦼ̷⸙`}, {quoted: message.quoted || ''})
